@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameController : MonoBehaviour {
 
 	public Animator ani;
+    public int score = 0;
 
 	// Use this for initialization
 	void Start () {
