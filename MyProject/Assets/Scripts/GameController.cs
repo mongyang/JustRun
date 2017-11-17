@@ -8,6 +8,7 @@ public class GameController : MonoBehaviour {
     public int score = 0;
     public int testValue1;
     public int testValue2;
+    public int testValue3;
 
     // Use this for initialization
     void Start () {
