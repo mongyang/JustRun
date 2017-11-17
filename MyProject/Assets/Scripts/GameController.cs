@@ -7,9 +7,10 @@ public class GameController : MonoBehaviour {
 	public Animator ani;
     public int score = 0;
     public int testValue1;
+    public int testValue2;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
